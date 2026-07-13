@@ -94,7 +94,7 @@ I took a Kaggle dataset (2023), cleaned it (removed rows with missing values), a
 ## 💬 Get in Touch
 
 If you have any questions about these projects or would like to discuss potential opportunities, feel free to reach out!  
-[*(Add your LinkedIn, Telegram, or email here.)*](https://www.linkedin.com/in/aleksandra-nigmatzianova-593865233/)
+[*(LinkedIn)*](https://www.linkedin.com/in/aleksandra-nigmatzianova-593865233/)
 
 ---
 
